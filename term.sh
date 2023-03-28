@@ -1,5 +1,5 @@
 #!/bin/bash
-# Coded by github.com/singhvijayp
+# Coded by github.com/vsin9h
 # Copy with credits
 
 # colors

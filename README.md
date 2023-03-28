@@ -5,7 +5,7 @@
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/singhvijayp/TermBase.git
+git clone https://github.com/vsin9h/TermBase.git
 cd TermBase
 sh term.sh
 ```
